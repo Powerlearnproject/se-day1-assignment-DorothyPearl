@@ -6,6 +6,8 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
+Software Endigneering is a form of engineering where systematic applications of engineering principles, methods and tools are employed in the development and maintenance of software systems. Software Engineering is important to the technology industry because it powers various aspects of modern life especially in health care like seeing early signs of a sickness and providing an accurate diagnosis.
+
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
